@@ -1,2 +1,2 @@
-# Random-Dog-AJAX-API
-A simple AJAX API example, fecthing a random dog pic with each click!
+# Random Dog AJAX API
+A simple AJAX API example, fetching a random dog pic with each click!
